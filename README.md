@@ -44,6 +44,9 @@ Projects built with the [Rexglue SDK](https://github.com/rexglue/rexglue-sdk).
 | [Dragon Ball Z: Budokai HD Collection](https://github.com/WistfulHopes/DBZ1) | Recompilation of Dragon Ball Z: Budokai HD Collection. | [WistfulHopes](https://github.com/WistfulHopes) |
 | [Dragon Ball: Raging Blast 2](https://github.com/WistfulHopes/RB2) | Recompilation of Dragon Ball: Raging Blast 2. | [WistfulHopes](https://github.com/WistfulHopes) |
 | [Halo 3 (cache build)](https://github.com/twist84/halo3_cache_release_recomp) | Early technical recompilation of a leaked Halo 3 March 2007 delta build; not a playable release. | [twist84](https://github.com/twist84) |
+| [LEGO Dimensions](https://github.com/NeverCookFirst/DimensionsRecomp) | Native Windows recompilation with unlocked framerate, DLC and real or emulated Toy Pad support; playable beta. | [NeverCookFirst](https://github.com/NeverCookFirst) |
+| [Fable II (ReXGlue)](https://github.com/himdo/Fable-2-Recomp) | ReXGlue recompilation of Fable II for Windows, playable to completion with keyboard and mouse support. | [himdo](https://github.com/himdo) |
+| [Deadly Premonition](https://github.com/LittleBitUA/DPRecomp) | Native Windows recompilation with 60 FPS, keyboard and mouse support, and an experimental Direct3D 12 renderer. | [LittleBitUA](https://github.com/LittleBitUA) |
 
 ---
 
@@ -59,6 +62,8 @@ Projects built with [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) (Pow
 | [The Simpsons Game](https://github.com/YesterMester/TheSimpsonsGameRecomp) | Recompilation of The Simpsons Game (2007), combining a XenonRecomp-style translation approach with a Xenia-derived runtime. | [YesterMester](https://github.com/YesterMester) |
 | [Skate 2](https://github.com/Skate-2-Team/sk82-recomp) | Recompilation of Skate 2. Archived and no longer in active development as of 2026-07-29. | [Skate-2-Team](https://github.com/Skate-2-Team) |
 | [Test Drive Unlimited](https://github.com/testdriveupgrade/TDURecomp) | Very early native port of Test Drive Unlimited, built on a custom XenonRecomp fork tailored to the TDU engine. | [testdriveupgrade](https://github.com/testdriveupgrade) |
+| [Sonic Free Riders](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | Static recompilation for Windows, Linux and Android; menus and races work, with controller, keyboard and motion-control support. | [YuutaTsubasa](https://github.com/YuutaTsubasa) |
+| [Dead Rising 2: Case Zero](https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp) | Native PC port for Windows and Linux via XenonRecomp; playable from start to finish. | [wivi514](https://github.com/wivi514) |
 
 ---
 
@@ -98,5 +103,9 @@ Thanks to everyone in the Xbox 360 recompilation community who puts in the work 
 - [YesterMester](https://github.com/YesterMester)
 - [Skate-2-Team](https://github.com/Skate-2-Team)
 - [testdriveupgrade](https://github.com/testdriveupgrade)
+- [NeverCookFirst](https://github.com/NeverCookFirst)
+- [himdo](https://github.com/himdo)
+- [YuutaTsubasa](https://github.com/YuutaTsubasa)
+- [wivi514](https://github.com/wivi514)
 - [rexglue](https://github.com/rexglue) — for building and maintaining the Rexglue SDK.
 - [hedge-dev](https://github.com/hedge-dev) — for XenonRecomp and XenosRecomp, the tools powering the XenonRecomp section.
