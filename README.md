@@ -47,7 +47,6 @@ Projects built with the [Rexglue SDK](https://github.com/rexglue/rexglue-sdk).
 | [LEGO Dimensions](https://github.com/NeverCookFirst/DimensionsRecomp) | Native Windows recompilation with unlocked framerate, DLC and real or emulated Toy Pad support; playable beta. | [NeverCookFirst](https://github.com/NeverCookFirst) |
 | [Fable II (ReXGlue)](https://github.com/himdo/Fable-2-Recomp) | ReXGlue recompilation of Fable II for Windows, playable to completion with keyboard and mouse support. | [himdo](https://github.com/himdo) |
 | [Deadly Premonition](https://github.com/LittleBitUA/DPRecomp) | Native Windows recompilation with 60 FPS, keyboard and mouse support, and an experimental Direct3D 12 renderer. | [LittleBitUA](https://github.com/LittleBitUA) |
-
 | [Forza Horizon](https://github.com/arcanite24/pinyon-shift) | Native Windows, Linux, macOS, and Steam Deck recompilation with an experimental Android build; playable preview with up to 4K rendering. | [arcanite24](https://github.com/arcanite24) |
 | [Spider-Man: Edge of Time](https://github.com/goliathret/EdgeOfTimeRecomp) | Native Windows, Linux, and macOS port with Direct3D 12 and Vulkan rendering. | [goliathret](https://github.com/goliathret) |
 | [Peter Jackson's King Kong](https://github.com/TekRantGaming/king-kong-recompiled) | Native Windows port with achievements, cheat toggles, and a self-updating launcher; Linux and Steam Deck via Proton. | [TekRantGaming](https://github.com/TekRantGaming) |
