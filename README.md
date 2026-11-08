@@ -90,6 +90,7 @@ Projects built with [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) (Pow
 
 | Game | Description | Author |
 |------|-------------|--------|
+| [Lost Odyssey (Steprant Android)](https://github.com/Steprant/LostOdysseyRecomp-Android) | Android ARM64 fork of Lost Odyssey Recomp with SGSR2, frame-pacing and audio changes, TV/HDMI output and public APK releases. | [Steprant](https://github.com/Steprant) |
 | [Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp) | Unofficial PC port of Sonic Unleashed for Windows and Linux — supports high resolutions, ultrawide, high framerates, and mods via Hedge Mod Manager. | [hedge-dev](https://github.com/hedge-dev) |
 | [Sonic the Hedgehog (2006)](https://github.com/sonicnext-dev/MarathonRecomp) | Unofficial PC port of Sonic '06 for Windows, Linux, and macOS — still in active development. | [sonicnext-dev](https://github.com/sonicnext-dev) |
 | [The Simpsons Game](https://github.com/YesterMester/TheSimpsonsGameRecomp) | Recompilation of The Simpsons Game (2007), combining a XenonRecomp-style translation approach with a Xenia-derived runtime. | [YesterMester](https://github.com/YesterMester) |
