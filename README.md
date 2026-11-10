@@ -102,6 +102,7 @@ Projects built with [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) (Pow
 | [Dead Rising 2: Case West](https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp) | Finished native port for Windows, Linux, Steam Deck, and Apple silicon with Vulkan rendering and online co-op. | [wivi514](https://github.com/wivi514) |
 | [Tekken Tag Tournament 2](https://github.com/shihabal3amri/tekken-tag-tournament-2-pc) | Native Windows port with all 59 fighters, up to 4K at 60 FPS, and online play. | [shihabal3amri](https://github.com/shihabal3amri) |
 | [The Simpsons Arcade](https://github.com/sp00nznet/simpsonsarcade) | Playable native x86-64 port of the Xbox Live Arcade release. | [sp00nznet](https://github.com/sp00nznet) |
+| [Pro Evolution Soccer 2013](https://github.com/xamphy/PES13Recomp) | Early native port of PES 2013 for Windows, with an iPad (Apple silicon) port in progress; matches run at 60 FPS with a Vulkan renderer. | [xamphy](https://github.com/xamphy) |
 
 ---
 
